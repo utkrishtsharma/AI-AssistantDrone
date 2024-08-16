@@ -35,6 +35,8 @@ Here are some screenshots and visuals that illustrate the project:
 ### Prerequisites
 
 - Raspberry Pi (Model 3B+ or later)
+- APM 3.6 + Ardupilot
+- GRS ( Laptop or any CLI )
 - iOS Device with iOS 14 or later
 - Xcode 12 or later (for building the iOS app)
 
